@@ -6,7 +6,7 @@ TBD
 
 ## Vignette
 In this example, I will describe how to use the `vbic_classfiy()` function to map NIH grants about COVID-19 to the goals and objectives outlined in the NIH Strategic Plan for COVID-19. 
-The first step in the process is to obtain the document set to be categorized. We will use the `get_nih_reporter()` R functions to obtain the grants from the NIH RePORTER API, so we first load these functions with `source()`. 
+The first step in the process is to obtain the document set to be categorized. We will use the `get_nih_reporter()` [R functions](https://github.com/christopherBelter/nih_reporter_api) to obtain the grants from the NIH RePORTER API, so we first load these functions with `source()`. 
 ```r
 source(“get_nih_reporter.r”)
 ```
