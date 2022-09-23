@@ -1,0 +1,1151 @@
+term,priority,objective,subtheme,weight,notes
+\\bace2\\b,1,1.1,1.1,1,
+\\bb[ -]cell,1,1.1,1.1,1,
+\\bc reactiv,1,1.1,1.1,1,
+\\bcell,1,1.1,1.1,1,
+\\bcleav,1,1.1,1.1,1,
+\\bdna\\b,1,1.1,1.1,1,
+\\bgenes*\\b,1,1.1,1.1,1,
+\\bhosts*\\b,1,1.1,1.1,1,
+\\bifn\\b,1,1.1,1.1,1,
+\\binfect\\b,1,1.1,1.1,1,
+\\bmrna\\b,1,1.1,1.1,1,
+\\bomics*\\b,1,1.1,1.1,1,
+\\brbd\\b,1,1.1,1.1,1,
+\\brna\\b,1,1.1,1.1,1,
+\\bstem\\b,1,1.1,1.1,1,
+\\bt[ -]cell,1,1.1,1.1,1,
+acid,1,1.1,1.1,1,
+angiotensin,1,1.1,1.1,1,
+antibod,1,1.1,1.1,1,
+antigen,1,1.1,1.1,1,
+attenu,1,1.1,1.1,1,
+bind,1,1.1,1.1,1,
+cytokin,1,1.1,1.1,1,
+domain,1,1.1,1.1,1,
+dysregul,1,1.1,1.1,1,
+encod,1,1.1,1.1,1,
+entry,1,1.1,1.1,1,
+enzym,1,1.1,1.1,1,
+epitop,1,1.1,1.1,1,
+etiolog,1,1.1,1.1,1,
+express,1,1.1,1.1,1,
+function,1,1.1,1.1,1,
+genetic,1,1.1,1.1,1,
+genom,1,1.1,1.1,1,
+glycoprotein,1,1.1,1.1,1,
+humoral,1,1.1,1.1,1,
+immun,1,1.1,1.1,1,
+immune respons,1,1.1,1.1,1,
+immunolog,1,1.1,1.1,1,
+inflammator,1,1.1,1.1,1,
+innat,1,1.1,1.1,1,
+interact,1,1.1,1.1,1,
+interferon,1,1.1,1.1,1,
+interleukin,1,1.1,1.1,1,
+lymphocyt,1,1.1,1.1,1,
+membran,1,1.1,1.1,1,
+memori,1,1.1,1.1,1,
+modulat,1,1.1,1.1,1,
+molecular,1,1.1,1.1,1,
+monocyt,1,1.1,1.1,1,
+mutat,1,1.1,1.1,1,
+neural,1,1.1,1.1,1,
+neuron,1,1.1,1.1,1,
+neutrophil,1,1.1,1.1,1,
+nucleocapsid,1,1.1,1.1,1,
+organoid,1,1.1,1.1,1,
+oxidat,1,1.1,1.1,1,
+pathway,1,1.1,1.1,1,
+phenotyp,1,1.1,1.1,1,
+proteas,1,1.1,1.1,1,
+protein,1,1.1,1.1,1,
+proteom,1,1.1,1.1,1,
+receptor,1,1.1,1.1,1,
+recognit,1,1.1,1.1,1,
+recombin,1,1.1,1.1,1,
+regulat,1,1.1,1.1,1,
+replic,1,1.1,1.1,1,
+sequenc,1,1.1,1.1,1,
+signal,1,1.1,1.1,1,
+signatur,1,1.1,1.1,1,
+single[ -]cell,1,1.1,1.1,1,
+spike,1,1.1,1.1,1,
+stimul,1,1.1,1.1,1,
+structur,1,1.1,1.1,1,
+suppress,1,1.1,1.1,1,
+surfac,1,1.1,1.1,1,
+synaps,1,1.1,1.1,1,
+synapt,1,1.1,1.1,1,
+tmprss,1,1.1,1.1,1,
+transcript,1,1.1,1.1,1,
+trigger,1,1.1,1.1,1,
+trimer,1,1.1,1.1,1,
+upregul,1,1.1,1.1,1,
+variant,1,1.1,1.1,1,
+viral,1,1.1,1.1,1,
+viral entr,1,1.1,1.1,1,
+viral infect,1,1.1,1.1,1,
+viral load,1,1.1,1.1,1,
+viral replic,1,1.1,1.1,1,
+\\bbats*\\b,1,1.2,1.2,3,
+\\bmice\\b,1,1.2,1.2,1,
+\\bpigs*\\b,1,1.2,1.2,1,
+\\brat\\b,1,1.2,1.2,1,
+animal,1,1.2,1.2,1,
+animal model,1,1.2,1.2,5,
+baboon,1,1.2,1.2,1,
+bonobo,1,1.2,1.2,1,
+breed,1,1.2,1.2,3,
+chimpanze,1,1.2,1.2,1,
+colony,1,1.2,1.2,3,
+ferret,1,1.2,1.2,1,
+hamster,1,1.2,1.2,1,
+inbree*d,1,1.2,1.2,3,
+knock[ -]down,1,1.2,1.2,3,
+knock[ -]in,1,1.2,1.2,3,
+knock[ -]out,1,1.2,1.2,3,
+knockdown,1,1.2,1.2,3,
+knockin,1,1.2,1.2,3,
+knockout,1,1.2,1.2,3,
+macaque,1,1.2,1.2,3,
+marmoset,1,1.2,1.2,1,
+mink,1,1.2,1.2,1,
+monkey,1,1.2,1.2,1,
+monkey model,1,1.2,1.2,3,
+monkey strain,1,1.2,1.2,3,
+mouse,1,1.2,1.2,1,
+mouse model,1,1.2,1.2,3,
+mouse strain,1,1.2,1.2,3,
+non[ -]human,1,1.2,1.2,3,
+nonhuman,1,1.2,1.2,3,
+pangolin,1,1.2,1.2,1,
+porcin,1,1.2,1.2,1,
+pre[ -]clinic,1,1.2,1.2,1,
+preclinic,1,1.2,1.2,1,
+primat,1,1.2,1.2,1,
+primate model,1,1.2,1.2,3,
+primate strain,1,1.2,1.2,3,
+rat model,1,1.2,1.2,3,
+rat strain,1,1.2,1.2,3,
+rhesus,1,1.2,1.2,1,
+swine,1,1.2,1.2,1,
+\\bair\\b,1,1.3,1.3a,1,transmission
+\\bjob\\b,1,1.3,1.3a,1,transmission
+\\bshed\\b,1,1.3,1.3a,1,transmission
+\\bshedding\\b,1,1.3,1.3a,1,transmission
+acquire,1,1.3,1.3a,1,transmission
+acquisition,1,1.3,1.3a,1,transmission
+aerosol,1,1.3,1.3a,1,transmission
+airborne,1,1.3,1.3a,1,transmission
+asymptomat,1,1.3,1.3a,1,transmission
+contact,1,1.3,1.3a,1,transmission
+contact trac,1,1.3,1.3a,5,transmission
+contaminat,1,1.3,1.3a,1,transmission
+community transmiss,1,1.3,1.3a,3,transmission
+community spread,1,1.3,1.3a,3,transmission
+disease transmiss,1,1.3,1.3a,3,transmission
+disease spread,1,1.3,1.3a,3,transmission
+horizontal transmiss,1,1.3,1.3a,3,transmission
+autochthonous transmiss,1,1.3,1.3a,3,transmission
+close contact,1,1.3,1.3a,3,transmission
+reproduction number,1,1.3,1.3a,3,transmission
+incubation period,1,1.3,1.3a,3,transmission
+droplet,1,1.3,1.3a,1,transmission
+epidemiolog,1,1.3,1.3a,5,transmission
+expose,1,1.3,1.3a,1,transmission
+exposur,1,1.3,1.3a,1,transmission
+incidenc,1,1.3,1.3a,3,transmission
+incubat,1,1.3,1.3a,1,transmission
+indoor,1,1.3,1.3a,1,transmission
+infectiv,1,1.3,1.3a,1,transmission
+occupat,1,1.3,1.3a,1,transmission
+outbreak,1,1.3,1.3a,1,transmission
+outdoor,1,1.3,1.3a,1,transmission
+particl,1,1.3,1.3a,1,transmission
+prevalenc,1,1.3,1.3a,5,transmission
+public health,1,1.3,1.3a,1,transmission
+reproduc,1,1.3,1.3a,1,transmission
+spread,1,1.3,1.3a,1,transmission
+super[ -]spread,1,1.3,1.3a,5,transmission
+superspread,1,1.3,1.3a,5,transmission
+surfac,1,1.3,1.3a,1,transmission
+surveil,1,1.3,1.3a,3,transmission
+symptomat,1,1.3,1.3a,1,transmission
+transmiss,1,1.3,1.3a,3,transmission
+transmit,1,1.3,1.3a,3,transmission
+workplac,1,1.3,1.3a,1,transmission
+vertical(ly)* transmi,1,1.3,1.3a,3,transmission
+vertical(ly)* transfer,1,1.3,1.3a,3,transmission
+xpopul,1,1.3,1.3a,1,transmission
+\\bad\\b,1,1.3,1.3b,1,risk
+\\badrd\\b,1,1.3,1.3b,3,risk
+\\bco[ -]morbid,1,1.3,1.3b,3,risk
+\\bcopd,1,1.3,1.3b,3,risk
+\\bds\\b,1,1.3,1.3b,3,risk
+\\bfrail,1,1.3,1.3b,1,risk
+\\bhiv\\b,1,1.3,1.3b,3,risk
+\\bobes,1,1.3,1.3b,3,risk
+\\brisk[sy]*(?! factor),1,1.3,1.3b,3,risk
+\\bsex\\b,1,1.3,1.3b,1,risk
+air quality,1,1.3,1.3b,1,risk
+alzheimer,1,1.3,1.3b,3,risk
+asbestosis,1,1.3,1.3b,3,risk
+asthma,1,1.3,1.3b,3,risk
+autoimmun,1,1.3,1.3b,3,risk
+cancer,1,1.3,1.3b,3,risk
+cardiovasc,1,1.3,1.3b,3,risk
+chemical expos,1,1.3,1.3b,5,risk
+chronic,1,1.3,1.3b,3,risk
+chronic lung,1,1.3,1.3b,3,risk
+chronic obstructive pulmonary,1,1.3,1.3b,3,risk
+comorbid,1,1.3,1.3b,5,risk
+developmental(ly)* disab,1,1.3,1.3b,3,risk
+diabet,1,1.3,1.3b,3,risk
+down syndrom,1,1.3,1.3b,3,risk
+environmental expos,1,1.3,1.3b,5,risk
+exposom,1,1.3,1.3b,5,risk
+exposur,1,1.3,1.3b,1,risk
+exposure to chemic,1,1.3,1.3b,3,risk
+exposure to pesticid,1,1.3,1.3b,3,risk
+factors*\\b,1,1.3,1.3b,1,risk
+gastrointestin,1,1.3,1.3b,3,risk
+gender,1,1.3,1.3b,1,risk
+heart disease,1,1.3,1.3b,3,risk
+hepatitus,1,1.3,1.3b,3,risk
+high(er)*[ -]risk,1,1.3,1.3b,5,risk
+hypertens,1,1.3,1.3b,3,risk
+immune suppres,1,1.3,1.3b,3,risk
+immuno[ -]suppress,1,1.3,1.3b,3,risk
+immunosuppress,1,1.3,1.3b,3,risk
+immunotherap,1,1.3,1.3b,3,risk
+increase the risk,1,1.3,1.3b,5,risk
+increased* risk,1,1.3,1.3b,5,risk
+intellectual(ly)* disab,1,1.3,1.3b,3,risk
+kidney disease,1,1.3,1.3b,3,risk
+liver disease,1,1.3,1.3b,3,risk
+lupus,1,1.3,1.3b,3,risk
+pesticid,1,1.3,1.3b,5,risk
+pneumonitis,1,1.3,1.3b,3,risk
+pollut,1,1.3,1.3b,5,risk
+predispos,1,1.3,1.3b,3,risk
+pulmonary fibrosis,1,1.3,1.3b,3,risk
+rheumatoid arthritis,1,1.3,1.3b,3,risk
+risk factor,1,1.3,1.3b,5,risk
+smoke,1,1.3,1.3b,3,risk
+stroke,1,1.3,1.3b,3,risk
+susceptib,1,1.3,1.3b,3,risk
+transplant,1,1.3,1.3b,1,risk
+tuberculosis,1,1.3,1.3b,3,risk
+underly,1,1.3,1.3b,3,risk
+vulnerab,1,1.3,1.3b,1,risk
+xassociat,1,1.3,1.3b,1,
+xfemale,1,1.3,1.3b,1,*
+xmale,1,1.3,1.3b,1,*
+xworker,1,1.3,1.3b,1,***
+(?<!post[ -])acute,1,1.4,1.4a,1,pathology
+\\bchest,1,1.4,1.4a,1,pathology
+\\beyes*\\b,1,1.4,1.4a,1,pathology
+\\bicu\\b,1,1.4,1.4a,1,pathology
+\\bill\\b,1,1.4,1.4a,1,pathology
+\\bloss\\b,1,1.4,1.4a,1,pathology
+\\blungs*,1,1.4,1.4a,1,pathology
+\\bmorbid,1,1.4,1.4a,1,pathology
+\\bpasc\\b,1,1.4,1.4a,5,long_covid
+\\bsymptoms*,1,1.4,1.4a,1,pathology
+after acute,1,1.4,1.4a,3,long_covid
+after covid,1,1.4,1.4a,3,long_covid
+after diagnos,1,1.4,1.4a,3,long_covid
+airway,1,1.4,1.4a,1,pathology
+brain,1,1.4,1.4a,1,pathology
+cardiac,1,1.4,1.4a,1,pathology
+case report,1,1.4,1.4a,1,pathology
+case series,1,1.4,1.4a,1,pathology
+cerebral,1,1.4,1.4a,1,pathology
+chemosensor,1,1.4,1.4a,1,pathology
+cognit,1,1.4,1.4a,1,pathology
+xcohort,1,1.4,1.4a,1,pathology
+complication,1,1.4,1.4a,1,pathology
+condit,1,1.4,1.4a,1,pathology
+cytokin,1,1.4,1.4a,1,
+cytokine storm,1,1.4,1.4a,3,
+damag,1,1.4,1.4a,1,pathology
+deficit,1,1.4,1.4a,1,pathology
+disord,1,1.4,1.4a,1,pathology
+durat,1,1.4,1.4a,1,pathology
+dysfunct,1,1.4,1.4a,1,pathology
+effect,1,1.4,1.4a,1,*
+encephalopath,1,1.4,1.4a,1,pathology
+endothelial,1,1.4,1.4a,1,pathology
+epithelial,1,1.4,1.4a,1,pathology
+fatal,1,1.4,1.4a,1,pathology
+fatigue,1,1.4,1.4a,1,mental_health
+fever,1,1.4,1.4a,1,pathology
+following covid,1,1.4,1.4a,3,long_covid
+gastrointestin,1,1.4,1.4a,1,pathology
+heart,1,1.4,1.4a,1,pathology
+hospitaliz,1,1.4,1.4a,1,pathology
+illness,1,1.4,1.4a,1,pathology
+impair,1,1.4,1.4a,1,pathology
+in-*patient,1,1.4,1.4a,1,pathology
+inflamm,1,1.4,1.4a,1,pathology
+injur,1,1.4,1.4a,1,pathology
+intestin,1,1.4,1.4a,1,pathology
+lesion,1,1.4,1.4a,1,pathology
+long[ -]covid,1,1.4,1.4a,5,long_covid
+long[ -]haul,1,1.4,1.4a,5,long_covid
+long[ -]term,1,1.4,1.4a,1,long_covid
+long[ -]term covid,1,1.4,1.4a,5,long_covid
+longitudin,1,1.4,1.4a,1,long_covid
+longterm covid,1,1.4,1.4a,5,long_covid
+manifest,1,1.4,1.4a,1,pathology
+mis[ -]c,1,1.4,1.4a,5,long_covid
+mortal,1,1.4,1.4a,1,pathology
+morbid,1,1.4,1.4a,1,pathology
+neurolog,1,1.4,1.4a,1,pathology
+olfactor,1,1.4,1.4a,3,pathology
+onset,1,1.4,1.4a,1,pathology
+organs*,1,1.4,1.4a,1,pathology
+outcom,1,1.4,1.4a,1,pathology
+pathobiol,1,1.4,1.4a,1,pathology
+pathogenes,1,1.4,1.4a,3,pathology
+pathol,1,1.4,1.4a,3,pathology
+pathophysiol,1,1.4,1.4a,3,pathology
+patient,1,1.4,1.4a,1,pathology
+persist,1,1.4,1.4a,3,long_covid
+post[ -]acut,1,1.4,1.4a,3,long_covid
+post[ -]covid,1,1.4,1.4a,3,long_covid
+post[ -]infect,1,1.4,1.4a,3,long_covid
+postacute,1,1.4,1.4a,3,long_covid
+postcovid,1,1.4,1.4a,3,long_covid
+presenting,1,1.4,1.4a,1,pathology
+progresses,1,1.4,1.4a,1,pathology
+progression,1,1.4,1.4a,1,pathology
+prolong,1,1.4,1.4a,3,long_covid
+pulmonar,1,1.4,1.4a,1,pathology
+recover,1,1.4,1.4a,1,pathology
+respirator,1,1.4,1.4a,1,pathology
+sequela,1,1.4,1.4a,3,pathology
+smell,1,1.4,1.4a,3,pathology
+surviv,1,1.4,1.4a,1,pathology
+symptoms*\\b,1,1.4,1.4a,3,pathology
+taste,1,1.4,1.4a,3,pathology
+thrombo,1,1.4,1.4a,1,pathology
+tissu,1,1.4,1.4a,1,pathology
+ventilated,1,1.4,1.4a,1,pathology
+xclinic,1,1.4,1.4a,1,*
+xcours,1,1.4,1.4a,1,*
+xdevelopment,1,1.4,1.4a,1,*
+ximpact,1,1.4,1.4a,1,*
+xindividual,1,1.4,1.4a,1,*
+xmild,1,1.4,1.4a,1,*
+xodds,1,1.4,1.4a,1,pathology
+xsever,1,1.4,1.4a,1,*
+\\bart\\b,1,1.4,1.4b,3,pandemic
+\\bcope\\b,1,1.4,1.4b,1,mental_health
+\\bcoping\\b,1,1.4,1.4b,1,mental_health
+\\bmeth\\b,1,1.4,1.4b,5,substance_use
+methamphetamin,1,1.4,1.4b,5,substance_use
+\\bnurs[ei],1,1.4,1.4b,1,pandemic
+\\boud\\b,1,1.4,1.4b,5,substance_use
+\\bsud\\b,1,1.4,1.4b,3,substance_use
+\\bzoom\\b,1,1.4,1.4b,3,pandemic
+access,1,1.4,1.4b,1,pandemic
+addict,1,1.4,1.4b,5,substance_use
+alcohol,1,1.4,1.4b,3,substance_use
+alcoholi[cs],1,1.4,1.4b,3,substance_use
+\\bamphetamin,1,1.4,1.4b,5,substance_use
+antiretroviral therapy,1,1.4,1.4b,3,pandemic
+anxiet,1,1.4,1.4b,3,mental_health
+asthma,1,1.4,1.4b,1,pandemic
+attitud,1,1.4,1.4b,1,mental_health
+belief,1,1.4,1.4b,1,mental_health
+binge,1,1.4,1.4b,3,substance_use
+binge[ -]drink,1,1.4,1.4b,3,substance_use
+binge[ -]alcohol,1,1.4,1.4b,3,substance_use
+brain,1,1.4,1.4b,1,
+burn[ -]out,1,1.4,1.4b,1,mental_health
+burnout,1,1.4,1.4b,1,mental_health
+cancer center,1,1.4,1.4b,3,pandemic
+cancer screening,1,1.4,1.4b,3,pandemic
+cancer testing,1,1.4,1.4b,3,pandemic
+cannabis,1,1.4,1.4b,5,substance_use
+care clinic,1,1.4,1.4b,3,pandemic
+care continuum,1,1.4,1.4b,3,pandemic
+care delivery,1,1.4,1.4b,3,pandemic
+care provider,1,1.4,1.4b,3,pandemic
+care system,1,1.4,1.4b,3,pandemic
+catchment area,1,1.4,1.4b,3,pandemic
+cerebral,1,1.4,1.4b,1,
+cigarett,1,1.4,1.4b,5,substance_use
+cocain,1,1.4,1.4b,5,substance_use
+cognit,1,1.4,1.4b,1,
+community health,1,1.4,1.4b,3,pandemic
+dental servic,1,1.4,1.4b,3,pandemic
+depress,1,1.4,1.4b,5,mental_health
+diabet,1,1.4,1.4b,1,pandemic
+dialysis,1,1.4,1.4b,1,pandemic
+disrupt,1,1.4,1.4b,1,"** add specific diseases; healthcare utilization (diabetes, asthma, etc.)"
+distress,1,1.4,1.4b,3,mental_health
+drink,1,1.4,1.4b,3,substance_use
+drug abuse,1,1.4,1.4b,5,substance_use
+drug use,1,1.4,1.4b,5,substance_use
+drug addict,1,1.4,1.4b,5,substance_use
+drug dependenc,1,1.4,1.4b,5,substance_use
+drug withdrawal,1,1.4,1.4b,5,substance_use
+\\bdrunk,1,1.4,1.4b,5,substance_use
+emotion,1,1.4,1.4b,3,mental_health
+emotiv,1,1.4,1.4b,3,mental_health
+experience,1,1.4,1.4b,1,mental_health
+fear,1,1.4,1.4b,1,mental_health
+feel,1,1.4,1.4b,1,mental_health
+glucose control,1,1.4,1.4b,3,pandemic
+grief,1,1.4,1.4b,1,mental_health
+hashish,1,1.4,1.4b,5,substance_use
+health behavior,1,1.4,1.4b,3,pandemic
+health care,1,1.4,1.4b,3,pandemic
+health service,1,1.4,1.4b,3,pandemic
+health system,1,1.4,1.4b,3,pandemic
+healthcare,1,1.4,1.4b,3,pandemic
+heroin,1,1.4,1.4b,5,substance_use
+hiv care,1,1.4,1.4b,3,pandemic
+hiv treatment,1,1.4,1.4b,3,pandemic
+hospitals*\\b,1,1.4,1.4b,1,pandemic
+illegal,1,1.4,1.4b,3,substance_use
+illegal drug,1,1.4,1.4b,5,substance_use
+illicit,1,1.4,1.4b,3,substance_use
+inject drug,1,1.4,1.4b,5,substance_use
+intravenous drug,1,1.4,1.4b,5,substance_use
+insomnia,1,1.4,1.4b,3,mental_health
+internet,1,1.4,1.4b,3,pandemic
+isolated,1,1.4,1.4b,3,mental_health
+isolation,1,1.4,1.4b,3,mental_health
+loneliness,1,1.4,1.4b,3,mental_health
+lonely,1,1.4,1.4b,3,mental_health
+mammogra,1,1.4,1.4b,3,pandemic
+marijuana,1,1.4,1.4b,5,substance_use
+morphine,1,1.4,1.4b,5,substance_use
+medical care,1,1.4,1.4b,3,pandemic
+mental health,1,1.4,1.4b,5,mental_health
+methamphet,1,1.4,1.4b,5,substance_use
+mhealth,1,1.4,1.4b,3,pandemic
+misus,1,1.4,1.4b,1,substance_use
+mobile health,1,1.4,1.4b,3,pandemic
+mood,1,1.4,1.4b,1,mental_health
+narcotic,1,1.4,1.4b,5,substance_use
+nicotin,1,1.4,1.4b,5,substance_use
+neonatal abstinenc,1,1.4,1.4b,5,substance_use
+online,1,1.4,1.4b,3,pandemic
+opiate,1,1.4,1.4b,3,substance_use
+opioid,1,1.4,1.4b,3,substance_use
+opioid abuse,1,1.4,1.4b,3,substance_use
+opioid addict,1,1.4,1.4b,3,substance_use
+opioid depend,1,1.4,1.4b,3,substance_use
+opioid misuse,1,1.4,1.4b,3,substance_use
+oral health,1,1.4,1.4b,3,pandemic
+outpatient,1,1.4,1.4b,3,pandemic
+overdose,1,1.4,1.4b,5,substance_use
+\\bpcp\\b,1,1.4,1.4b,3,substance_use
+pandemic respons,1,1.4,1.4b,3,pandemic
+patient popul,1,1.4,1.4b,3,pandemic
+phencyclidine,1,1.4,1.4b,3,substance_use
+perceiv,1,1.4,1.4b,1,mental_health
+percept,1,1.4,1.4b,1,mental_health
+phones*\\b,1,1.4,1.4b,3,pandemic
+post[ -]traumat,1,1.4,1.4b,5,mental_health
+posttramaut,1,1.4,1.4b,5,mental_health
+preventative care,1,1.4,1.4b,3,pandemic
+preventative servic,1,1.4,1.4b,3,pandemic
+preventative therap,1,1.4,1.4b,3,pandemic
+preventative treatment,1,1.4,1.4b,3,pandemic
+primary care,1,1.4,1.4b,3,pandemic
+psychiat,1,1.4,1.4b,5,mental_health
+psycho[ -]social,1,1.4,1.4b,5,mental_health
+psycho[ -]somatic,1,1.4,1.4b,5,mental_health
+psycholog,1,1.4,1.4b,5,mental_health
+psychosocial,1,1.4,1.4b,5,mental_health
+psychosomatic,1,1.4,1.4b,5,mental_health
+ptsd,1,1.4,1.4b,5,mental_health
+pw[iu]d,1,1.4,1.4b,5,substance_use
+quality of care,1,1.4,1.4b,3,pandemic
+quality of life,1,1.4,1.4b,3,mental_health
+relationship,1,1.4,1.4b,1,mental_health
+remote health,1,1.4,1.4b,3,pandemic
+schizophren,1,1.4,1.4b,5,mental_health
+sleep,1,1.4,1.4b,3,mental_health
+smoke,1,1.4,1.4b,5,substance_use
+stress,1,1.4,1.4b,3,mental_health
+substanc,1,1.4,1.4b,1,substance_use
+substance abuse,1,1.4,1.4b,5,substance_use
+substance addict,1,1.4,1.4b,5,substance_use
+substance use,1,1.4,1.4b,5,substance_use
+suicid,1,1.4,1.4b,5,mental_health
+supportive care,1,1.4,1.4b,3,pandemic
+telehealth,1,1.4,1.4b,3,pandemic
+text messag,1,1.4,1.4b,3,pandemic
+tobacco,1,1.4,1.4b,5,substance_use
+treatment center,1,1.4,1.4b,3,pandemic
+video[ -]conferenc,1,1.4,1.4b,3,pandemic
+videoconferenc,1,1.4,1.4b,3,pandemic
+virtual,1,1.4,1.4b,3,pandemic
+wernicke,1,1.4,1.4b,5,substance_use
+web[ -]based,1,1.4,1.4b,3,pandemic
+well[ -]being,1,1.4,1.4b,3,mental_health
+wellbeing,1,1.4,1.4b,3,mental_health
+worry,1,1.4,1.4b,3,mental_health
+\\bvape\\b,1,1.4,1.4b,5,substance_use
+\\bvaping\\b,1,1.4,1.4b,5,substance_use
+xdrug,1,1.4,1.4b,1,substance_use
+\\bcryo[ -]em\\b,2,2,2,1,
+\\bct\\b,2,2,2,1,
+\\belisa\\b,2,2,2,5,
+\\biga\\b,2,2,2,1,
+\\bigg\\b,2,2,2,1,
+\\bigm\\b,2,2,2,1,
+\\bmri\\b,2,2,2,1,
+\\bpcr\\b,2,2,2,1,
+\\bpet\\b,2,2,2,1,
+\\brrt[ -]pcr,2,2,2,5,
+\\brt[ -]pcr,2,2,2,5,
+\\brt[ -]qpcr,2,2,2,5,
+\\brt\\b,2,2,2,1,
+\\bsera\\b,2,2,2,1,
+\\btests*\\b,2,2,2,1,
+accurac,2,2,2,1,
+antigen test,2,2,2,1,
+assay,2,2,2,1,
+biomark,2,2,2,5,
+biosens,2,2,2,3,*
+chain,2,2,2,1,
+collect\\b,2,2,2,1,
+collection,2,2,2,1,
+concentr,2,2,2,1,
+covid test,2,2,2,3,
+covid[ -]*19 test,2,2,2,3,
+detect,2,2,2,3,
+diagnos,2,2,2,3,
+diagnost,2,2,2,5,
+electron,2,2,2,1,
+extract,2,2,2,1,
+false negativ,2,2,2,1,
+false positiv,2,2,2,1,
+fluid,2,2,2,1,
+imag,2,2,2,1,
+immunoassay,2,2,2,1,
+immunoglobulin,2,2,2,1,
+immunohistochem,2,2,2,1,
+immunophenotyping,2,2,2,3,
+laborator,2,2,2,1,
+level,2,2,2,1,*
+magnet,2,2,2,1,
+microscopy,2,2,2,1,
+multiplex,2,2,2,1,
+nasopharyng,2,2,2,5,
+negativ,2,2,2,1,
+plasma,2,2,2,1,
+platform,2,2,2,1,
+poctrn,2,2,2,5,
+polymeras,2,2,2,1,
+pool,2,2,2,1,
+positiv,2,2,2,1,
+point[ -]of[ -]care,2,2,2,5,
+qrt[- ]pcr,2,2,2,5,
+rad[ -]x,2,2,2,5,
+rapid acceleration of diagnostics,2,2,2,5,
+radiolog,2,2,2,1,
+radx,2,2,2,5,
+rapid antigen,2,2,2,1,
+rapid test,2,2,2,1,
+reaction,2,2,2,1,
+reagent,2,2,2,1,
+resonanc,2,2,2,1,
+reverse transcript,2,2,2,1,
+rtpcr,2,2,2,5,
+saliva,2,2,2,3,
+sampl,2,2,2,1,
+sars[ -]cov[ -]2 test,2,2,2,3,
+scan,2,2,2,1,
+screen,2,2,2,1,
+sensitiv,2,2,2,1,
+serolog,2,2,2,3,
+seroposit,2,2,2,3,
+seropreval,2,2,2,1,
+serotyp,2,2,2,3,
+serum,2,2,2,3,
+specificit,2,2,2,1,
+specimen,2,2,2,1,
+spectromet,2,2,2,1,
+swab,2,2,2,1,
+testing,2,2,2,1,* downweight : combine with phrases (e.g. 'rapid testing')
+testing for covid,2,2,2,3,
+testing for sars[ -]cov[ -]2,2,2,2,3,
+tests* for covid,2,2,2,3,
+tests* for sars[ -]cov[ -]2,2,2,2,3,
+titer,2,2,2,1,
+titres,2,2,2,1,
+tomograph,2,2,2,1,
+visib,2,2,2,1,
+wastewater,2,2,2,3,*
+xrapid,2,2,2,1,*
+[mnrsgl]ib\\b,3,3,3,3,drug name ending
+[mnt]ide\\b,3,3,3,3,drug name ending
+\\bactiv\\b,3,3,3,3,
+\\bbiologic\\b,3,3,3,3,
+\\bbiologics\\b,3,3,3,3,
+\\bpill\\b,3,3,3,1,
+\\bpills\\b,3,3,3,1,
+\\bpk\\b,3,3,3,3,
+administer,3,3,3,1,
+agent,3,3,3,1,
+agonist,3,3,3,3,
+antagonist,3,3,3,3,
+anti[ -]covid,3,3,3,3,
+anti[ -]inflammat,3,3,3,3,
+anti[ -]microb,3,3,3,3,
+anti[ -]thrombotic,3,3,3,3,
+anti[ -]vir,3,3,3,3,
+antibiot,3,3,3,3,
+anticovid,3,3,3,3,
+antiinflammat,3,3,3,3,
+antimicrob,3,3,3,3,
+antithrombotic,3,3,3,3,
+antivir,3,3,3,3,
+approv,3,3,3,1,
+aspirin,3,3,3,1,
+azithromycin,3,3,3,1,
+benefit,3,3,3,1,
+bioavailab,3,3,3,1,
+candid,3,3,3,1,
+chloroquin,3,3,3,5,
+colchicine,3,3,3,5,
+compound,3,3,3,1,
+convalesc,3,3,3,1,
+concalescent plasma,3,3,3,3,
+dexamethason,3,3,3,5,
+discovery,3,3,3,1,
+dosag,3,3,3,3,
+dose,3,3,3,1,
+drug,3,3,3,3,
+drug delivery,3,3,3,5,
+drug discovery,3,3,3,5,
+efficac,3,3,3,1,
+generic,3,3,3,3,
+hydroxychloroquin,3,3,3,5,
+immunomodul,3,3,3,1,
+infusion,3,3,3,1,
+inhibit,3,3,3,1,
+intravenous,3,3,3,1,
+intubat,3,3,3,1,
+ivermectin,3,3,3,5,
+ligand,3,3,3,3,
+mab\\b,3,3,3,3,drug name ending
+manag,3,3,3,1,
+medicat,3,3,3,1,
+nsaid,3,3,3,5,
+nutritional supplement,3,3,3,5,
+open[ -]label,3,3,3,3,
+option,3,3,3,1,*
+oxygen,3,3,3,1,
+peptid,3,3,3,1,
+pharmac,3,3,3,3,
+placebo,3,3,3,1,*
+plasma,3,3,3,1,
+prazole\\b,3,3,3,3,drug name ending
+prescrib,3,3,3,3,
+prophylact,3,3,3,1,
+prophylax,3,3,3,1,
+release,3,3,3,1,
+remdesivir,3,3,3,5,
+repurpos,3,3,3,1,
+respirator,3,3,3,1,
+safet,3,3,3,1,
+small[ -]molecul,3,3,3,5,
+solubl,3,3,3,1,
+supplement,3,3,3,1,
+target,3,3,3,1,
+therap,3,3,3,3,
+therapeut,3,3,3,3,
+tocilizumab,3,3,3,1,
+toxic,3,3,3,3,
+treat,3,3,3,1,
+treatment,3,3,3,1,
+vastatin\\b,3,3,3,3,drug name ending
+vec\\b,3,3,3,3,drug name ending
+ventilator,3,3,3,1,
+vir\\b,3,3,3,3,drug name ending
+vitamin,3,3,3,1,
+vteu,3,3,3,3,
+xadministr,3,3,3,1,*
+xhospital,3,3,3,1,
+adjuvant,4,4.1,4.1,1,
+antibody respons,4,4.1,4.1,1,
+antigen,4,4.1,4.1,1,
+attenuat,4,4.1,4.1,1,
+chadox1,4,4.1,4.1,5,
+bnt162b2,4,4.1,4.1,5,
+mrna-1273,4,4.1,4.1,5,
+ad.26.cov2s,4,4.1,4.1,5,
+jnj-78436725,4,4.1,4.1,5,
+boost,4,4.1,4.1,1,
+broadly neutraliz,4,4.1,4.1,3,
+covpn,4,4.1,4.1,3,
+heterologous,4,4.1,4.1,1,
+hvtn,4,4.1,4.1,3,
+immune respons,4,4.1,4.1,1,
+immuni[sz],4,4.1,4.1,1,
+immunogenic\\b,4,4.1,4.1,3,
+immunogenicity,4,4.1,4.1,5,
+immunogens,4,4.1,4.1,5,
+inactivat,4,4.1,4.1,1,
+neutraliz,4,4.1,4.1,1,
+neutralizing antibod,4,4.1,4.1,3,
+placebo,4,4.1,4.1,1,
+prime,4,4.1,4.1,1,
+protect,4,4.1,4.1,1,
+reactogenicit,4,4.1,4.1,5,
+recombinant,4,4.1,4.1,3,
+safet,4,4.1,4.1,1,*
+shot,4,4.1,4.1,1,
+spike,4,4.1,4.1,1,
+tolerabilit,4,4.1,4.1,1,
+vaccin,4,4.1,4.1,3,
+vteu,4,4.1,4.1,3,
+\\becwtp\\b,4,4.2,4.2,5,
+\\bhdptp\\b,4,4.2,4.2,5,
+\\bmwtp\\b,4,4.2,4.2,5,
+\\bnpis\\b,4,4.2,4.2,5,
+\\bwtp\\b,4,4.2,4.2,5,
+air filt,4,4.2,4.2,1,
+air purif,4,4.2,4.2,1,
+bio[ -]safet,4,4.2,4.2,5,
+biosafet,4,4.2,4.2,5,
+business,4,4.2,4.2,1,
+clean,4,4.2,4.2,1,
+closur,4,4.2,4.2,1,
+contain,4,4.2,4.2,1,
+control,4,4.2,4.2,1,
+curb,4,4.2,4.2,1,
+contamin,4,4.2,4.2,1,
+decontamin,4,4.2,4.2,5,
+disaster preparedness training,4,4.2,4.2,5,
+disinfect,4,4.2,4.2,5,
+face cover,4,4.2,4.2,5,
+facial cover,4,4.2,4.2,5,
+filter,4,4.2,4.2,1,
+filtrat,4,4.2,4.2,3,
+hazardous materials,4,4.2,4.2,5,
+health & safety,4,4.2,4.2,5,
+health and safety,4,4.2,4.2,5,
+hwwtp,4,4.2,4.2,5,
+hygien,4,4.2,4.2,3,
+hand hygeien,4,4.2,4.2,3,
+hand wash,4,4.2,4.2,3,
+lockdown,4,4.2,4.2,3,
+mandat,4,4.2,4.2,1,
+mask,4,4.2,4.2,5,
+mitig,4,4.2,4.2,1,
+mobilit,4,4.2,4.2,1,
+non[ -]pharmaceut,4,4.2,4.2,5,
+nonpharmaceut,4,4.2,4.2,5,
+order,4,4.2,4.2,1,
+physical distanc,4,4.2,4.2,5,
+policies,4,4.2,4.2,1,*
+policy,4,4.2,4.2,1,*
+prevent,4,4.2,4.2,1,*
+protect,4,4.2,4.2,1,*
+public transport,4,4.2,4.2,3,
+quarantin,4,4.2,4.2,5,
+restrict,4,4.2,4.2,1,
+safety training,4,4.2,4.2,5,
+school,4,4.2,4.2,1,
+social distanc,4,4.2,4.2,5,
+travel,4,4.2,4.2,1,
+ventilation,4,4.2,4.2,3,
+wash,4,4.2,4.2,1,
+worker training,4,4.2,4.2,5,
+xcover,4,4.2,4.2,1,*
+\\bdivers,5,5.1,5.1,3,
+\\bds\\b,5,5.1,5.1,3,
+\\bhous,5,5.1,5.1,1,
+\\bjail,5,5.1,5.1,3,
+\\brace,5,5.1,5.1,3,
+aapi,5,5.1,5.1,3,
+african[ -]american,5,5.1,5.1,3,
+alaska native,5,5.1,5.1,3,
+american indian,5,5.1,5.1,3,
+asian,5,5.1,5.1,3,
+bipoc,5,5.1,5.1,3,
+black,5,5.1,5.1,3,
+blind,5,5.1,5.1,3,
+caucasian,5,5.1,5.1,1,
+census,5,5.1,5.1,1,
+communit,5,5.1,5.1,1,
+crimin,5,5.1,5.1,1,
+deaf,5,5.1,5.1,3,
+demograph,5,5.1,5.1,1,
+developmental(ly)* disab,5,5.1,5.1,3,
+disabilit,5,5.1,5.1,3,
+disabled,5,5.1,5.1,3,
+disadvantag,5,5.1,5.1,3,
+discrimin,5,5.1,5.1,3,
+disparit,5,5.1,5.1,3,
+disproport,5,5.1,5.1,3,
+down syndrome,5,5.1,5.1,3,
+dyslexi,5,5.1,5.1,3,
+econom,5,5.1,5.1,1,
+equit,5,5.1,5.1,3,
+ethnic,5,5.1,5.1,3,
+financ,5,5.1,5.1,1,
+fragile x,5,5.1,5.1,3,
+geograph,5,5.1,5.1,1,
+hispan,5,5.1,5.1,3,
+homeless,5,5.1,5.1,3,
+immigr,5,5.1,5.1,1,
+incarcer,5,5.1,5.1,1,
+inclusi,5,5.1,5.1,3,
+income,5,5.1,5.1,1,
+indigenous,5,5.1,5.1,3,
+intellectual(ly)* disab,5,5.1,5.1,3,
+intersect,5,5.1,5.1,3,
+justic,5,5.1,5.1,1,
+latin[oax],5,5.1,5.1,3,
+low[ -]incom,5,5.1,5.1,3,
+marginal,5,5.1,5.1,3,
+mental(ly)* retard,5,5.1,5.1,3,
+minorit,5,5.1,5.1,3,
+native alaska,5,5.1,5.1,3,
+native american,5,5.1,5.1,3,
+neighborhood,5,5.1,5.1,1,
+non[ -]white,5,5.1,5.1,3,
+pacific island,5,5.1,5.1,3,
+paraly[sz],5,5.1,5.1,3,
+people of color,5,5.1,5.1,3,
+phenylketonuria,5,5.1,5.1,3,
+physical disabilit,5,5.1,5.1,3,
+physically disable,5,5.1,5.1,3,
+popul,5,5.1,5.1,1,
+povert,5,5.1,5.1,1,
+prison,5,5.1,5.1,1,
+racial,5,5.1,5.1,3,
+reside,5,5.1,5.1,1,
+rural,5,5.1,5.1,3,
+social,5,5.1,5.1,1,
+socio[ -]demograph,5,5.1,5.1,3,
+socio[ -]econom,5,5.1,5.1,3,
+sociodemograph,5,5.1,5.1,3,
+socioeconom,5,5.1,5.1,3,
+special education,5,5.1,5.1,3,
+special need,5,5.1,5.1,3,
+tribal,5,5.1,5.1,3,
+tribe,5,5.1,5.1,3,
+under[ -]resourc,5,5.1,5.1,3,
+under[ -]serv,5,5.1,5.1,3,
+underresourc,5,5.1,5.1,3,
+underserv,5,5.1,5.1,3,
+unemploy,5,5.1,5.1,1,
+uninsur,5,5.1,5.1,1,
+vulnerab,5,5.1,5.1,1,
+wheelchair,5,5.1,5.1,3,
+white,5,5.1,5.1,1,
+zip code,5,5.1,5.1,1,
+\\bborn\\b,5,5.2,5.2,3,
+\\bptb\\b,5,5.2,5.2,5,
+abort,5,5.2,5.2,5,
+amnio,5,5.2,5.2,5,
+antenat,5,5.2,5.2,5,
+babies,5,5.2,5.2,1,
+baby,5,5.2,5.2,1,
+birth,5,5.2,5.2,3,
+breast[ -]fed,5,5.2,5.2,5,
+breast[ -]feed,5,5.2,5.2,5,
+breastfed,5,5.2,5.2,5,
+breastfeed,5,5.2,5.2,5,
+cesarean,5,5.2,5.2,5,
+childbirth,5,5.2,5.2,5,
+eclamps,5,5.2,5.2,5,
+eclampt,5,5.2,5.2,5,
+embryo,5,5.2,5.2,3,
+fetal,5,5.2,5.2,5,
+fetus,5,5.2,5.2,5,
+gestat,5,5.2,5.2,5,
+gestos,5,5.2,5.2,5,
+gynecolog,5,5.2,5.2,1,
+in utero,5,5.2,5.2,5,
+labor\\b,5,5.2,5.2,1,
+lactating,5,5.2,5.2,5,
+lactation,5,5.2,5.2,5,
+matern,5,5.2,5.2,3,
+maternal morbid,5,5.2,5.2,5,
+maternal mortal,5,5.2,5.2,5,
+milk,5,5.2,5.2,3,
+miscarriag,5,5.2,5.2,5,
+miscarry,5,5.2,5.2,5,
+obstetric,5,5.2,5.2,3,
+parturient,5,5.2,5.2,5,
+parturit,5,5.2,5.2,5,
+perinat,5,5.2,5.2,5,
+placent,5,5.2,5.2,5,
+postnat,5,5.2,5.2,5,
+postpart,5,5.2,5.2,5,
+preeclamps,5,5.2,5.2,5,
+preeclampt,5,5.2,5.2,5,
+pregnanc,5,5.2,5.2,5,
+pregnant,5,5.2,5.2,5,
+prenat,5,5.2,5.2,5,
+prepregnan,5,5.2,5.2,5,
+preterm,5,5.2,5.2,5,
+puerperal,5,5.2,5.2,5,
+stillbirth,5,5.2,5.2,5,
+stillborn,5,5.2,5.2,5,
+trimest,5,5.2,5.2,3,
+trophoblast,5,5.2,5.2,5,
+umbilic,5,5.2,5.2,3,
+vertical(ly)* transfer,5,5.2,5.2,5,
+vertical(ly)* transmi,5,5.2,5.2,5,
+vlbw,5,5.2,5.2,5,
+womb,5,5.2,5.2,1,
+\\b[0-9][ -]years*[ -]old,5,5.3,5.3a,5,pediatric
+\\b1[0-2][ -]years*[ -]old,5,5.3,5.3a,5,pediatric
+\\bage\\b,5,5.3,5.3a,3,
+\\baged [0-9]\\b,5,5.3,5.3a,5,pediatric
+\\baged 1[0-9]\\b,5,5.3,5.3a,5,pediatric
+\\bages* [0-9]\\b,5,5.3,5.3a,5,pediatric
+\\bages* 1[0-9]\\b,5,5.3,5.3a,5,pediatric
+\\baging\\b,5,5.3,5.3a,1,
+\\bboys*\\b,5,5.3,5.3a,3,pediatric
+\\bk[ -]12\\b,5,5.3,5.3a,3,pediatric
+\\bk12\\b,5,5.3,5.3a,3,pediatric
+\\bkids*\\b,5,5.3,5.3a,5,pediatric
+\\bmis[ -]c\\b,5,5.3,5.3a,5,pediatric
+\\bold\\b,5,5.3,5.3a,1,
+\\bparent,5,5.3,5.3a,1,pediatric
+\\bteddy\\b,5,5.3,5.3a,1,pediatric
+\\bteen,5,5.3,5.3a,5,pediatric
+1[3-9][ -]years*[ -]old,5,5.3,5.3a,5,pediatric
+adolesc,5,5.3,5.3a,5,pediatric
+babies,5,5.3,5.3a,5,pediatric
+baby,5,5.3,5.3a,5,pediatric
+birth cohort,5,5.3,5.3a,5,pediatric
+child,5,5.3,5.3a,5,pediatric
+classroom,5,5.3,5.3a,1,pediatric
+congenital,5,5.3,5.3a,1,pediatric
+elementary[ -]school,5,5.3,5.3a,3,pediatric
+families,5,5.3,5.3a,3,
+family,5,5.3,5.3a,3,
+girl,5,5.3,5.3a,3,pediatric
+high[ -]school,5,5.3,5.3a,3,pediatric
+infant,5,5.3,5.3a,5,pediatric
+life stage,5,5.3,5.3a,1,
+middle[ -]school,5,5.3,5.3a,3,pediatric
+neonat,5,5.3,5.3a,5,pediatric
+newborn,5,5.3,5.3a,5,pediatric
+pediatric,5,5.3,5.3a,5,pediatric
+premature,5,5.3,5.3a,5,pediatric
+preterm,5,5.3,5.3a,3,pediatric
+preschool,5,5.3,5.3a,5,pediatric
+preteen,5,5.3,5.3a,5,pediatric
+\\bpre[ -]teen,5,5.3,5.3a,5,pediatric
+pubert,5,5.3,5.3a,5,pediatric
+pubesc,5,5.3,5.3a,5,pediatric
+school,5,5.3,5.3a,3,pediatric
+toddler,5,5.3,5.3a,5,pediatric
+ymsm,5,5.3,5.3a,5,young_adult
+young,5,5.3,5.3a,3,
+young adult,5,5.3,5.3a,5,young_adult
+young people,5,5.3,5.3a,5,young_adult
+youth,5,5.3,5.3a,5,young_adult
+[5-9][0-9][ -]years*[ -]old,5,5.3,5.3b,5,older_adult
+\\bad\\b,5,5.3,5.3b,1,older_adult
+\\badrd\\b,5,5.3,5.3b,5,older_adult
+\\bage\\b,5,5.3,5.3b,3,
+\\baged [5-9][0-9]\\b,5,5.3,5.3b,5,older_adult
+\\baged\\b,5,5.3,5.3b,3,older_adult
+\\bages* [5-9][0-9]\\b,5,5.3,5.3b,5,older_adult
+\\baging\\b,5,5.3,5.3b,5,** age 65 and older
+\\bold\\b,5,5.3,5.3b,1,
+\\bolder\\b,5,5.3,5.3b,3,older_adult
+\\boldest\\b,5,5.3,5.3b,3,older_adult
+alzheimer,5,5.3,5.3b,5,older_adult
+assisted living,5,5.3,5.3b,3,older_adult
+cognitive declin,5,5.3,5.3b,3,older_adult
+community[ -]dwell,5,5.3,5.3b,3,older_adult
+centenarian,5,5.3,5.3b,5,older_adult
+nonagenarian,5,5.3,5.3b,5,older_adult
+octogenarian,5,5.3,5.3b,5,older_adult
+dementia,5,5.3,5.3b,3,older_adult
+elder,5,5.3,5.3b,5,older_adult
+geriatric,5,5.3,5.3b,5,older_adult
+gerontol,5,5.3,5.3b,5,older_adult
+life stage,5,5.3,5.3b,1,
+lifespan,5,5.3,5.3b,1,older_adult
+medicare,5,5.3,5.3b,5,older_adult
+middle[ -]age,5,5.3,5.3b,3,older_adult
+nursing home,5,5.3,5.3b,5,older_adult
+older adult,5,5.3,5.3b,5,older_adult
+older individual,5,5.3,5.3b,5,older_adult
+older people,5,5.3,5.3b,5,older_adult
+older person,5,5.3,5.3b,5,older_adult
+senior,5,5.3,5.3b,3,older_adult
+skilled nursing,5,5.3,5.3b,5,older_adult
+\\basia\\b,5,5.4,5.4,1,
+\\bchad\\b,5,5.4,5.4,3,
+\\bcontinent,5,5.4,5.4,1,
+\\bindian*\\b,5,5.4,5.4,3,
+\\biran\\b,5,5.4,5.4,3,
+\\blassa\\b,5,5.4,5.4,3,reg_disease
+\\bmali\\b,5,5.4,5.4,3,
+\\bniger\\b,5,5.4,5.4,3,
+\\boman\\b,5,5.4,5.4,3,
+\\buk\\b,5,5.4,5.4,3,
+afghanistan,5,5.4,5.4,3,
+africa\\b,5,5.4,5.4,3,
+african(?![ -]american),5,5.4,5.4,3,
+albania,5,5.4,5.4,3,
+algeria,5,5.4,5.4,3,
+angola,5,5.4,5.4,3,
+argentina,5,5.4,5.4,3,
+armenia,5,5.4,5.4,3,
+asian[ -][b-z],5,5.4,5.4,3,
+asian[ -]a[^m],5,5.4,5.4,3,
+australia,5,5.4,5.4,3,
+austria,5,5.4,5.4,3,
+azerbaijan,5,5.4,5.4,3,
+baharin,5,5.4,5.4,3,
+bangladesh,5,5.4,5.4,3,
+belarus,5,5.4,5.4,3,
+belgium,5,5.4,5.4,3,
+benin,5,5.4,5.4,3,
+bhutan,5,5.4,5.4,3,
+bolivia,5,5.4,5.4,3,
+bosnia,5,5.4,5.4,3,
+botswana,5,5.4,5.4,3,
+brazil,5,5.4,5.4,3,
+bulgaria,5,5.4,5.4,3,
+burma,5,5.4,5.4,3,
+burundi,5,5.4,5.4,3,
+cambodia,5,5.4,5.4,3,
+cameroon,5,5.4,5.4,3,
+carribean,5,5.4,5.4,3,
+chile,5,5.4,5.4,3,
+colombia,5,5.4,5.4,3,
+congo,5,5.4,5.4,3,
+costa rica,5,5.4,5.4,3,
+countries,5,5.4,5.4,1,
+country,5,5.4,5.4,1,
+croatia,5,5.4,5.4,3,
+cultur,5,5.4,5.4,1,
+cyprus,5,5.4,5.4,3,
+czech republic,5,5.4,5.4,3,
+czechia,5,5.4,5.4,3,
+dengue,5,5.4,5.4,3,reg_disease
+denmark,5,5.4,5.4,3,
+ebola,5,5.4,5.4,3,reg_disease
+ecuador,5,5.4,5.4,3,
+egypt,5,5.4,5.4,3,
+el salvador,5,5.4,5.4,3,
+emirates,5,5.4,5.4,3,
+england,5,5.4,5.4,3,
+eritrea,5,5.4,5.4,3,
+estonia,5,5.4,5.4,3,
+ethiopia,5,5.4,5.4,3,
+europe,5,5.4,5.4,1,
+finland,5,5.4,5.4,3,
+france,5,5.4,5.4,3,
+gabon,5,5.4,5.4,3,
+gambia,5,5.4,5.4,3,
+germany,5,5.4,5.4,3,
+ghana,5,5.4,5.4,3,
+global,5,5.4,5.4,1,
+global health,5,5.4,5.4,5,
+great britain,5,5.4,5.4,3,
+greece,5,5.4,5.4,3,
+guatemala,5,5.4,5.4,3,
+guinea,5,5.4,5.4,3,
+hungary,5,5.4,5.4,3,
+iceland,5,5.4,5.4,3,
+indonesia,5,5.4,5.4,3,
+international,5,5.4,5.4,1,
+iraq,5,5.4,5.4,3,
+ireland,5,5.4,5.4,3,
+israel,5,5.4,5.4,3,
+italy,5,5.4,5.4,3,
+japan,5,5.4,5.4,3,
+jordan,5,5.4,5.4,3,
+kenya,5,5.4,5.4,3,
+korea,5,5.4,5.4,3,
+kosovo,5,5.4,5.4,3,
+kuwait,5,5.4,5.4,3,
+laos,5,5.4,5.4,3,
+latin america,5,5.4,5.4,3,
+latvia,5,5.4,5.4,3,
+lebanon,5,5.4,5.4,3,
+liberia,5,5.4,5.4,3,
+libya,5,5.4,5.4,3,
+lithuania,5,5.4,5.4,3,
+lmic,5,5.4,5.4,5,
+low[ -]incom,5,5.4,5.4,1,
+macedonia,5,5.4,5.4,3,
+madagascar,5,5.4,5.4,3,
+malaria,5,5.4,5.4,3,reg_disease
+malawi,5,5.4,5.4,3,
+malaysia,5,5.4,5.4,3,
+malta,5,5.4,5.4,3,
+mauritania,5,5.4,5.4,3,
+mexico,5,5.4,5.4,1,
+middle[ -]incom,5,5.4,5.4,1,
+moldova,5,5.4,5.4,3,
+montenegro,5,5.4,5.4,3,
+morocco,5,5.4,5.4,3,
+mozambique,5,5.4,5.4,3,
+multi[ -]nation,5,5.4,5.4,1,
+multination,5,5.4,5.4,1,
+myanmar,5,5.4,5.4,3,
+namibia,5,5.4,5.4,3,
+nepal,5,5.4,5.4,3,
+netherlands,5,5.4,5.4,3,
+new zealand,5,5.4,5.4,3,
+nicaragua,5,5.4,5.4,3,
+nigeria,5,5.4,5.4,3,
+norway,5,5.4,5.4,3,
+pakistan,5,5.4,5.4,3,
+panama,5,5.4,5.4,3,
+paraguay,5,5.4,5.4,3,
+peru,5,5.4,5.4,3,
+philippines,5,5.4,5.4,3,
+poland,5,5.4,5.4,3,
+portugal,5,5.4,5.4,3,
+qatar,5,5.4,5.4,3,
+region,5,5.4,5.4,1,
+resourc,5,5.4,5.4,1,*
+romania,5,5.4,5.4,3,
+russia,5,5.4,5.4,3,
+rwanda,5,5.4,5.4,3,
+saudi arabia,5,5.4,5.4,3,
+scotland,5,5.4,5.4,3,
+senegal,5,5.4,5.4,3,
+serbia,5,5.4,5.4,3,
+sierra leone,5,5.4,5.4,3,
+singapore,5,5.4,5.4,3,
+slovakia,5,5.4,5.4,3,
+slovenia,5,5.4,5.4,3,
+south africa,5,5.4,5.4,3,
+south america,5,5.4,5.4,3,
+spain,5,5.4,5.4,3,
+sub[ -]sahar,5,5.4,5.4,5,
+sudan,5,5.4,5.4,3,
+sweeden,5,5.4,5.4,3,
+taiwan,5,5.4,5.4,3,
+tanzania,5,5.4,5.4,3,
+thailand,5,5.4,5.4,3,
+turkey,5,5.4,5.4,3,
+uganda,5,5.4,5.4,3,
+ukraine,5,5.4,5.4,3,
+uruguay,5,5.4,5.4,3,
+venezuela,5,5.4,5.4,3,
+vietnam,5,5.4,5.4,3,
+wales,5,5.4,5.4,3,
+world,5,5.4,5.4,1,
+yemen,5,5.4,5.4,3,
+zambia,5,5.4,5.4,3,
+zika,5,5.4,5.4,3,reg_disease
+zimbabwe,5,5.4,5.4,3,
