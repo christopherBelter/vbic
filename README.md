@@ -1,5 +1,5 @@
 # VBIC
-R code for the VBIC document classification algorithm
+R code for the VBIC document classification algorithm. This algorithm is still a work in progress, so this page will be updated regularly as I get around to adding documentation and tweaking the algorithm.
 
 ## About the algorithm
 TBD
